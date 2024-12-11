@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CompareToIgnoreCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879F0237-A9AC-4696-81F3-5C70FC25A9A8}|CompareToIgnoreCase.vcxproj|C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CompareToIgnoreCase\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{879F0237-A9AC-4696-81F3-5C70FC25A9A8}|CompareToIgnoreCase.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CompareToIgnoreCase\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CompareToIgnoreCase\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T20:19:02.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

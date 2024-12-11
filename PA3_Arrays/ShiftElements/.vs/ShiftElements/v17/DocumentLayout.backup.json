@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ShiftElements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCBCF7-E80A-400D-A476-55DDED2E7564}|ShiftElements.vcxproj|C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ShiftElements\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72DCBCF7-E80A-400D-A476-55DDED2E7564}|ShiftElements.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ShiftElements\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ShiftElements\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T17:59:52.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

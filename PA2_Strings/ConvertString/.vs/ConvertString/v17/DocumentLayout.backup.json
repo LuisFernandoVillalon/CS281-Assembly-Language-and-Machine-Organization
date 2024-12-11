@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ConvertString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CapString\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D29020B-A630-47B2-9671-3EE9433F249A}|ConvertString.vcxproj|C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ConvertString\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D29020B-A630-47B2-9671-3EE9433F249A}|ConvertString.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CapString\\main.asm",
+              "RelativeDocumentMoniker": "..\\CapString\\main.asm",
+              "ToolTip": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CapString\\main.asm",
+              "RelativeToolTip": "..\\CapString\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T17:21:10.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ConvertString\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\ConvertString\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T20:40:55.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CharAt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400CC986-94B0-477E-B450-9F5B7E730983}|CharAt.vcxproj|C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CharAt\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{400CC986-94B0-477E-B450-9F5B7E730983}|CharAt.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CharAt\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\17602\\Documents\\Important documents\\IVC\\CS281\\CharAt\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T02:10:55.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
